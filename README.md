@@ -1,5 +1,5 @@
 # ResQflow-Intelligent-HealthCare-System
-🚑 Right Care, Right Time
+🚑 Right Care-Right Time
 📌 Problem
 In emergency situations, patients often choose the nearest hospital without knowing real-time availability of ICU beds, ventilators, or specialists. This results in delays, misrouting, and can critically impact patient survival during the golden hour.
 💡 Solution
